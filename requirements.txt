@@ -1,2 +1,6 @@
-elasticsearch >= 7.8.0
 paramiko >= 2.7.1
+docker
+elasticsearch>=7.0.0,<8.0.0
+elasticsearch-dsl
+opensearch-py
+opensearch-dsl
